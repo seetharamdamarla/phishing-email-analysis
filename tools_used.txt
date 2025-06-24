@@ -1,0 +1,10 @@
+Tools Used for Phishing Email Analysis:
+
+1. Mozilla Thunderbird
+     https://www.thunderbird.net
+
+2. MXToolbox Email Header Analyzer
+     https://mxtoolbox.com/EmailHeaders.aspx
+
+3. Online EML Analyzer
+     https://eml-analyzer.herokuapp.com
