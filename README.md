@@ -22,8 +22,8 @@ To identify and document phishing characteristics in a suspicious `.eml` email f
 
 phishing-email-analysis/
 │
-├── phishing_email.eml # Sample phishing email file
-├── README.md # Project documentation (this file)
+├── phishing_email.eml   # Sample phishing email file
+├── README.md            # Project documentation (this file)
 │
 ├── analysis/
 │ └── eml_analyzer_report.txt # Header and spam verdict analysis
@@ -32,6 +32,8 @@ phishing-email-analysis/
 ├── mxtoolbox_result_1.png
 ├── mxtoolbox_result_2.png
 └── mxtoolbox_result_3.png
+├── thunderbird_view.png
+└── VirusTotal_result.png
 
 
 ---
