@@ -19,7 +19,7 @@ To identify and document phishing characteristics in a suspicious `.eml` email f
 ---
 
 ## 📁 Repository Structure
-
+```
 phishing-email-analysis/
 │
 ├── phishing_email.eml   # Sample phishing email file
@@ -34,8 +34,7 @@ phishing-email-analysis/
 └── mxtoolbox_result_3.png
 ├── thunderbird_view.png
 └── VirusTotal_result.png
-
-
+```
 ---
 
 ## 🔍 Key Findings
@@ -57,9 +56,3 @@ Screenshots of MXToolbox results and tools used can be found in the [`screenshot
 ## ✅ Conclusion
 
 This phishing email exhibits multiple red flags including spoofed domains, fake URLs, and social engineering language. The analysis helps build awareness and understanding of email-based threats.
-
----
-
-## 🔗 Submission
-
-Submitted as part of Task 2 of the Cyber Security Internship Program.
