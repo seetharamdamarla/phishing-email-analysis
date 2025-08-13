@@ -1,16 +1,16 @@
-# 📧 Phishing Email Analysis
+# Phishing Email Analysis
 
 This repository contains the analysis of a sample phishing email as part of a Cyber Security Internship (Task 2).
 
 ---
 
-## 📌 Objective
+## Objective
 
 To identify and document phishing characteristics in a suspicious `.eml` email file using email header analysis, URL inspection, and social engineering detection techniques.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Thunderbird Mail** – To open and inspect the `.eml` file
 - **EML Analyzer** – To analyze email headers and links
@@ -18,26 +18,7 @@ To identify and document phishing characteristics in a suspicious `.eml` email f
 
 ---
 
-## 📁 Repository Structure
-```
-phishing-email-analysis/
-│
-├── phishing_email.eml   # Sample phishing email file
-├── README.md            # Project documentation (this file)
-│
-├── analysis/
-│ └── eml_analyzer_report.txt # Header and spam verdict analysis
-│
-└── screenshots/
-├── mxtoolbox_result_1.png
-├── mxtoolbox_result_2.png
-└── mxtoolbox_result_3.png
-├── thunderbird_view.png
-└── VirusTotal_result.png
-```
----
-
-## 🔍 Key Findings
+## Key Findings
 
 - **Sender Domain Spoofing**: `support@paypa1.com` (not `paypal.com`)
 - **Suspicious Link**: `https://paypal-security-update.com/verify`
@@ -47,12 +28,12 @@ phishing-email-analysis/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Screenshots of MXToolbox results and tools used can be found in the [`screenshots/`](screenshots/) folder.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This phishing email exhibits multiple red flags including spoofed domains, fake URLs, and social engineering language. The analysis helps build awareness and understanding of email-based threats.
